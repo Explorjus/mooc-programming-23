@@ -1,0 +1,8 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "pylint.path": [
+        ">>>path/to/python<<<",
+        "-m",
+        "pylint"
+    ]
+}
