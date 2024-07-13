@@ -4,3 +4,5 @@ num = 0
 while num <= 28:
     num += 2
     print(num)
+
+print("dupa")
